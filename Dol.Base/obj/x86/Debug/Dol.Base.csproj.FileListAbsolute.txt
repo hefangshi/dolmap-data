@@ -1,0 +1,7 @@
+D:\Code\dolspider\Dol.Base\bin\Debug\Dol.Base.dll
+D:\Code\dolspider\Dol.Base\bin\Debug\Dol.Base.pdb
+D:\Code\dolspider\Dol.Base\bin\Debug\Newtonsoft.Json.dll
+D:\Code\dolspider\Dol.Base\bin\Debug\Newtonsoft.Json.xml
+D:\Code\dolspider\Dol.Base\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Code\dolspider\Dol.Base\obj\x86\Debug\Dol.Base.dll
+D:\Code\dolspider\Dol.Base\obj\x86\Debug\Dol.Base.pdb

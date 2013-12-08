@@ -1,0 +1,9 @@
+D:\Code\dolspider\DolSearch\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Code\dolspider\DolSearch\bin\Release\DolSearch.dll
+D:\Code\dolspider\DolSearch\bin\Release\DolSearch.pdb
+D:\Code\dolspider\DolSearch\bin\Release\Dol.Base.dll
+D:\Code\dolspider\DolSearch\bin\Release\Newtonsoft.Json.dll
+D:\Code\dolspider\DolSearch\bin\Release\Dol.Base.pdb
+D:\Code\dolspider\DolSearch\bin\Release\Newtonsoft.Json.xml
+D:\Code\dolspider\DolSearch\obj\x86\Release\DolSearch.dll
+D:\Code\dolspider\DolSearch\obj\x86\Release\DolSearch.pdb

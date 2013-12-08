@@ -1,0 +1,9 @@
+D:\Code\dolspider\SimAnalyzer\bin\x64\Release\SimAnalyzer.exe
+D:\Code\dolspider\SimAnalyzer\bin\x64\Release\Dol.Base.dll
+D:\Code\dolspider\SimAnalyzer\bin\x64\Release\DolSearch.dll
+D:\Code\dolspider\SimAnalyzer\bin\x64\Release\Newtonsoft.Json.dll
+D:\Code\dolspider\SimAnalyzer\bin\x64\Release\Dol.Base.pdb
+D:\Code\dolspider\SimAnalyzer\bin\x64\Release\DolSearch.pdb
+D:\Code\dolspider\SimAnalyzer\bin\x64\Release\Newtonsoft.Json.xml
+D:\Code\dolspider\SimAnalyzer\obj\x64\Release\ResolveAssemblyReference.cache
+D:\Code\dolspider\SimAnalyzer\obj\x64\Release\SimAnalyzer.exe

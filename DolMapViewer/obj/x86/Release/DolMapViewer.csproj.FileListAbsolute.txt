@@ -1,0 +1,13 @@
+D:\Code\dolspider\DolMapViewer\bin\Release\DolMapViewer.exe
+D:\Code\dolspider\DolMapViewer\bin\Release\DolMapViewer.pdb
+D:\Code\dolspider\DolMapViewer\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Code\dolspider\DolMapViewer\obj\x86\Release\DolMapViewer.MainForm.resources
+D:\Code\dolspider\DolMapViewer\obj\x86\Release\DolMapViewer.Properties.Resources.resources
+D:\Code\dolspider\DolMapViewer\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Code\dolspider\DolMapViewer\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Code\dolspider\DolMapViewer\obj\x86\Release\DolMapViewer.exe
+D:\Code\dolspider\DolMapViewer\obj\x86\Release\DolMapViewer.pdb
+D:\Code\dolspider\DolMapViewer\bin\Release\Dol.Base.dll
+D:\Code\dolspider\DolMapViewer\bin\Release\Newtonsoft.Json.dll
+D:\Code\dolspider\DolMapViewer\bin\Release\Dol.Base.pdb
+D:\Code\dolspider\DolMapViewer\bin\Release\Newtonsoft.Json.xml

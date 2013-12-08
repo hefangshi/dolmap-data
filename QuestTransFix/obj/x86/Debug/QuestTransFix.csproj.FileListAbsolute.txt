@@ -1,0 +1,9 @@
+D:\Code\dolspider\QuestTransFix\bin\x86\Debug\QuestTransFix.exe
+D:\Code\dolspider\QuestTransFix\bin\x86\Debug\QuestTransFix.pdb
+D:\Code\dolspider\QuestTransFix\bin\x86\Debug\Dol.Base.dll
+D:\Code\dolspider\QuestTransFix\bin\x86\Debug\Newtonsoft.Json.dll
+D:\Code\dolspider\QuestTransFix\bin\x86\Debug\Dol.Base.pdb
+D:\Code\dolspider\QuestTransFix\bin\x86\Debug\Newtonsoft.Json.xml
+D:\Code\dolspider\QuestTransFix\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Code\dolspider\QuestTransFix\obj\x86\Debug\QuestTransFix.exe
+D:\Code\dolspider\QuestTransFix\obj\x86\Debug\QuestTransFix.pdb

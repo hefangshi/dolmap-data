@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ce63217c-b27d-4af4-b3f6-966fb75da34f" name="hefangshi@HEFANGSHI-PC 2013-01-21 21:40:42" runUser="hefangshi-PC\hefangshi" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="dc9b742f-e5e2-429a-820d-79383eeb8920">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="hefangshi_HEFANGSHI-PC 2013-01-21 21_40_42">
+      <DeploymentItem filename="D:\Code\dolspider\Dol.Base\bin\Debug\Dol.Base.dll" />
+      <DeploymentItem filename="D:\Code\dolspider\DolSearch\bin\Debug\DolSearch.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-01-21T21:40:42.8894738+08:00" queuing="2013-01-21T21:40:44.1415455+08:00" start="2013-01-21T21:40:44.3015546+08:00" finish="2013-01-21T21:41:44.5760021+08:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="HEFANGSHI-PC" outcome="Error" timestamp="2013-01-21T21:41:44.5700018+08:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DolRouteLDConstructorTest" storage="d:\code\dolspider\dolsearch.test\bin\debug\dolsearch.test.dll" id="4963c816-dffa-4324-b0fa-a1d076176177">
+      <Execution id="485663a7-2d85-406b-984f-5785c497e1fd" />
+      <TestMethod codeBase="D:/Code/dolspider/DolSearch.Test/bin/Debug/DolSearch.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DolSearch.Test.DolRouteLDTest, DolSearch.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DolRouteLDConstructorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4963c816-dffa-4324-b0fa-a1d076176177" executionId="485663a7-2d85-406b-984f-5785c497e1fd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="485663a7-2d85-406b-984f-5785c497e1fd" testId="4963c816-dffa-4324-b0fa-a1d076176177" testName="DolRouteLDConstructorTest" computerName="HEFANGSHI-PC" duration="00:01:00.1344395" startTime="2013-01-21T21:40:44.4405626+08:00" endTime="2013-01-21T21:41:44.5750021+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="485663a7-2d85-406b-984f-5785c497e1fd">
+    </UnitTestResult>
+  </Results>
+</TestRun>

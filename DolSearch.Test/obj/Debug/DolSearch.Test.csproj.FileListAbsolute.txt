@@ -1,0 +1,13 @@
+D:\Code\dolspider\DolSearch.Test\bin\Debug\DolSearch.Test.dll
+D:\Code\dolspider\DolSearch.Test\bin\Debug\DolSearch.Test.pdb
+D:\Code\dolspider\DolSearch.Test\bin\Debug\DolSearch.dll
+D:\Code\dolspider\DolSearch.Test\bin\Debug\DolSearch.pdb
+D:\Code\dolspider\DolSearch.Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\dolspider\DolSearch.Test\obj\Debug\DolSearch.Test.dll
+D:\Code\dolspider\DolSearch.Test\obj\Debug\DolSearch.Test.pdb
+D:\Code\dolspider\DolSearch.Test\bin\Debug\Dol.Base.dll
+D:\Code\dolspider\DolSearch.Test\bin\Debug\Newtonsoft.Json.dll
+D:\Code\dolspider\DolSearch.Test\bin\Debug\Dol.Base.pdb
+D:\Code\dolspider\DolSearch.Test\bin\Debug\Newtonsoft.Json.xml
+D:\Code\dolspider\DolSearch.Test\bin\Debug\DolSearch_Accessor.dll
+D:\Code\dolspider\DolSearch.Test\bin\Debug\DolSearch_Accessor.pdb

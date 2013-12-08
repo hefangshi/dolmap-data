@@ -1,0 +1,11 @@
+D:\Code\dolspider\ConsoleApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Code\dolspider\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Code\dolspider\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Code\dolspider\ConsoleApplication1\bin\Release\Dol.Base.dll
+D:\Code\dolspider\ConsoleApplication1\bin\Release\DolSearch.dll
+D:\Code\dolspider\ConsoleApplication1\bin\Release\Newtonsoft.Json.dll
+D:\Code\dolspider\ConsoleApplication1\bin\Release\Dol.Base.pdb
+D:\Code\dolspider\ConsoleApplication1\bin\Release\DolSearch.pdb
+D:\Code\dolspider\ConsoleApplication1\bin\Release\Newtonsoft.Json.xml
+D:\Code\dolspider\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+D:\Code\dolspider\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb

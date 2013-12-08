@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b9df87d0-6011-4166-b335-ab9d29b8c1c9" name="hefangshi@HEFANGSHI-PC 2013-01-22 00:03:13" runUser="hefangshi-PC\hefangshi" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="dc9b742f-e5e2-429a-820d-79383eeb8920">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="hefangshi_HEFANGSHI-PC 2013-01-22 00_03_13">
+      <DeploymentItem filename="D:\Code\dolspider\Dol.Base\bin\Debug\Dol.Base.dll" />
+      <DeploymentItem filename="D:\Code\dolspider\DolSearch\bin\Debug\DolSearch.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-01-22T00:03:13.0945176+08:00" queuing="2013-01-22T00:03:14.5956035+08:00" start="2013-01-22T00:03:14.7456120+08:00" finish="2013-01-22T00:03:20.9169650+08:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="HEFANGSHI-PC" outcome="Error" timestamp="2013-01-22T00:03:20.9109647+08:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ComputeTest" storage="d:\code\dolspider\dolsearch.test\bin\debug\dolsearch.test.dll" id="4c5d95ff-d51d-ddf1-0a3c-da6d963cb132">
+      <Execution id="50075933-d3f9-4aeb-a0e6-11eac6f52557" />
+      <TestMethod codeBase="D:/Code/dolspider/DolSearch.Test/bin/Debug/DolSearch.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DolSearch.Test.LevenshteinDistanceTest, DolSearch.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ComputeTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4c5d95ff-d51d-ddf1-0a3c-da6d963cb132" executionId="50075933-d3f9-4aeb-a0e6-11eac6f52557" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="50075933-d3f9-4aeb-a0e6-11eac6f52557" testId="4c5d95ff-d51d-ddf1-0a3c-da6d963cb132" testName="ComputeTest" computerName="HEFANGSHI-PC" duration="00:00:06.0153440" startTime="2013-01-22T00:03:14.9016210+08:00" endTime="2013-01-22T00:03:20.9169650+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50075933-d3f9-4aeb-a0e6-11eac6f52557">
+    </UnitTestResult>
+  </Results>
+</TestRun>

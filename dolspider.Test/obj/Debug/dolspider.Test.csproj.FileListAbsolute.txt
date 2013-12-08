@@ -1,0 +1,12 @@
+D:\Code\dolspider\dolspider.Test\bin\Debug\dolspider.Test.dll
+D:\Code\dolspider\dolspider.Test\bin\Debug\dolspider.Test.pdb
+D:\Code\dolspider\dolspider.Test\bin\Debug\dolspider.exe
+D:\Code\dolspider\dolspider.Test\bin\Debug\HtmlAgilityPack.dll
+D:\Code\dolspider\dolspider.Test\bin\Debug\dolspider.pdb
+D:\Code\dolspider\dolspider.Test\bin\Debug\HtmlAgilityPack.pdb
+D:\Code\dolspider\dolspider.Test\bin\Debug\HtmlAgilityPack.xml
+D:\Code\dolspider\dolspider.Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\dolspider\dolspider.Test\obj\Debug\dolspider.Test.dll
+D:\Code\dolspider\dolspider.Test\obj\Debug\dolspider.Test.pdb
+D:\Code\dolspider\dolspider.Test\bin\Debug\Newtonsoft.Json.dll
+D:\Code\dolspider\dolspider.Test\bin\Debug\Newtonsoft.Json.xml
